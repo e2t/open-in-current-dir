@@ -1,3 +1,5 @@
+This project has been moved to https://codeberg.org/e2t/open-in-current-dir
+
 # OpenInCurrentDir
 
 Макрос, запускающий диалог открытия файла в каталоге активной модели SolidWorks.
